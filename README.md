@@ -1,6 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leaovo-man2)](https://github.com/Leaovo-man2/github-readme-stats)
-![Visitor Count](https://profile-counter.glitch.me/Leaovo-man2/count.svg)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Leaovo-man2&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> 
+![Python](http://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ### Hi,there!
 - 🔨 Gitee：https://gitee.com/lenovo-man
 - 🍖邮箱：samsayamy@outlook.com
@@ -8,8 +8,6 @@
 ### 一个⭐️也没有。
 
 专注写python 
-
-![Python](http://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br/>
 <br/>
 &nbsp;
