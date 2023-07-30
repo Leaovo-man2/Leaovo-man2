@@ -1,11 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Leaovo-man2&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> 
 ### 你好，世界
 - 🔨 Gitee：https://gitee.com/lenovo-man
-
-- 
 - 🍖邮箱：samsayamy@outlook.com
-
-- 
 ###豆蔻年华的精神小伙
 ###一个⭐️也没有。
 
@@ -14,7 +10,7 @@
 ![Python](http://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br/>
 <br/>
-For example : &nbsp;
+&nbsp;
 
 <pre class="notranslate" style="position: relative;" lang="text"><code class="notranslate">I'm a night 🦉
 
@@ -24,10 +20,7 @@ For example : &nbsp;
 🌙 Night      70 commits     █████░░░░░░░░░░░░░░░░░░░░   20.59%
 
 </code><div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
-
-For example :
-
-|    White ⚪    |    Black ⚫    |   Result 🏆   |  Date 📅  |                                                           Position 🗺️                                                            |
+|    White ⚪    |    Black ⚫    |   Result 🏆   |  Date 📅  |                                                           Positio                                                           |
 | :------------: | :------------: | :-----------: | :-------: | :------------------------------------------------------------------------------------------------------------------------------: |
 |   **Hikaru**   | mauricioflores |    win 🥇     | 31/7/2022 |                  <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4K3/7k/8/2R5/8/8 b - -">Link</a>                  |
 | mauricioflores |   **Hikaru**   |    win 🥇     | 31/7/2022 |           <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5k1/2P5/3P2KR/3nr2P/P4r2/8/2B5 w - -">Link</a>            |
