@@ -2,8 +2,8 @@
 ### 你好，世界
 - 🔨 Gitee：https://gitee.com/lenovo-man
 - 🍖邮箱：samsayamy@outlook.com
-###豆蔻年华的精神小伙
-###一个⭐️也没有。
+### 豆蔻年华的精神小伙
+### 一个⭐️也没有。
 
 专注写python 
 
