@@ -4,3 +4,8 @@
 - 🍖邮箱：samsayamy@outlook.com
 ###豆蔻年华的精神小伙
 ###一个⭐️也没有，👁️也没有
+[Markdown badges in many different categories ](https://github.com/Ileriayo/markdown-badges)
+
+Badges for your personal developer branding, profile, and projects.
+<br/>
+<br/>
