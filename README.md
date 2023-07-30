@@ -7,7 +7,9 @@
 ### 一个⭐️也没有。
 
 专注写python 
-![image］（Python.svg)
+
+![image](python.svg)
+
 ![Python](http://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br/>
 <br/>
