@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Leaovo-man2.Leaovo-man2&left_color=green&right_color=red)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢迎来到Leaovo-man2的页面;博客：https://Leaovo-man2.github.io)](https://git.io/typing-svg)
 # 关于我
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leaovo-man2)](https://github.com/Leaovo-man2/github-readme-stats)
