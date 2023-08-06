@@ -1,4 +1,4 @@
-给GitHub首页添加一个有趣的贪吃蛇小动画
+
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
 name: Generate Snake
