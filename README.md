@@ -3,7 +3,6 @@
 # 关于我
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leaovo-man2)](https://github.com/Leaovo-man2/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Leaovo-man2&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Leaovo-man2)](https://git.io/streak-stats)
 ![我的 GitHub 数据](https://stats.justsong.cn/api/github?username=Leaovo-man2)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Leaovo-man2&theme=onedark)](https://github.com/Leaovo-man2/Leaovo-man2)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leaovo-man2)](https://github.com/Leaovo-man2/Leaovo-man2)
