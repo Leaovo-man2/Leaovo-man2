@@ -9,7 +9,6 @@
 ### Hi,there!
 - 🔨 Gitee：https://gitee.com/lenovo-man
 - 🍖邮箱：samsayamy@outlook.com
-### 一个⭐️也没有。
 ### 我的博客 ：https://Leaovo-man2.github.io
 - 😁
 专注写python
